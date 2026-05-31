@@ -1,0 +1,12 @@
+{
+  "frontend/src/App.tsx": "Main application component with single-page layout, removed router, and added ThemeProvider for theme support.",
+  "frontend/src/hooks/useQueries.ts": "React Query hooks for fetching services, projects, and contact messages from the backend, plus mutation hook for submitting contact form messages.",
+  "frontend/src/components/Header.tsx": "Responsive navigation header with logo, desktop/mobile menu, and active route highlighting using gold accent color for refined elegance.",
+  "frontend/src/components/Footer.tsx": "Professional footer with logo, navigation links, contact information, social media icons, and caffeine.ai attribution using navy background and gold accents.",
+  "frontend/src/pages/Home.tsx": "Single-page minimalist design with two-column hero section featuring text content on the left and image on the right with deep navy blue background, followed by navy gradient sections for Services, Portfolio, and Contact with gold horizontal separators between major sections for elegant aesthetic.",
+  "frontend/src/pages/Services.tsx": "Services page displaying Web Design, Logo & Branding, Flyers, and Business Cards with detailed descriptions and feature lists in alternating layout with gold accents.",
+  "frontend/src/pages/Portfolio.tsx": "Portfolio gallery page with grid layout of project images featuring hover effects that reveal project titles and descriptions with navy overlay and gold highlights.",
+  "frontend/src/pages/Contact.tsx": "Contact page with form for submitting messages, contact information cards (phone, email, WhatsApp), social media links, and business hours using gold accent colors.",
+  "frontend/src/index.css": "Global styles with OKLCH color system featuring navy gradient colors (navy-dark and navy-light), gold accent, custom animations, and smooth scroll behavior for minimalist design.",
+  "frontend/tailwind.config.js": "Tailwind configuration with navy gradient colors (navy-dark, navy-light), gold accent, Inter font family, and extended design system for minimalist aesthetic."
+}
